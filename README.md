@@ -1,11 +1,6 @@
-# Pari_Bansal_AIMLD_VMS
+
 Volunteer Management System 
 
-## Team Members
-- Pari Bansal  
-- Anushka Singh  
-- Arpita Roy  
-- Kaashvi Gupta
 
 ## 📽️ Video Explanation
 [Watch the Project Demo](https://drive.google.com/file/d/1_SLykODGgbQOROSKCNYXjUgRd-TzApn3/view?usp=drive_link)
